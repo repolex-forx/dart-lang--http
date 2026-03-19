@@ -26,6 +26,34 @@
       ],
       "lsp": "aggregate/lsp/405395b1eb9398966ac784301b6fa5a382bb88c9.nq.gz",
       "repolex": "aggregate/repolex/405395b1eb9398966ac784301b6fa5a382bb88c9.nq.gz"
+    },
+    {
+      "commit": "56adf66b8c3505288444c05fb0bd86ea7aebaa31",
+      "parsed_at": "2026-03-19T21:43:46.380061+00:00",
+      "tag": "0.2.0",
+      "filetree": "filetree/56adf66b8c3505288444c05fb0bd86ea7aebaa31.nq.gz",
+      "blobs": [
+        "blob/9124e035b5376708c43de7ebd437eeb623038972.nq.gz",
+        "blob/49ce72d76a2dd00f5226c667ca5caad6081eee29.nq.gz",
+        "blob/f61b00fb7917984a272729451f153c9613e0dccb.nq.gz",
+        "blob/5cc86fdd0f282d270829463a906439c7c97af465.nq.gz",
+        "blob/a10d4c5a05c981eb3b5a454f1af297abfdf18b18.nq.gz",
+        "blob/8870dbb2ed01cb07125f2417011f6b694a2ca38b.nq.gz",
+        "blob/908463eb291b49f41f5b7bcfe24a687e50ea5f0b.nq.gz",
+        "blob/5d53a966da1620adad9ab0832532c0193dba9dad.nq.gz",
+        "blob/615b92ff9638c69d62a66c503307514cdc7eb6d5.nq.gz",
+        "blob/29ab172294f0935286593806ede284b87200ec45.nq.gz",
+        "blob/e8063a8cd6e55e48e8b3f30aa4f172bda9c4c133.nq.gz",
+        "blob/e86dbe6b2a91c44e7c6202f70676ee1d1f314bed.nq.gz",
+        "blob/d1aa1633dd46b0c52cc07546241bec4b98913a10.nq.gz",
+        "blob/e1b08fdf8891be40a2ddc056a3db3576d8817dbf.nq.gz",
+        "blob/da41cf27639a3b9eceab6ab8cf0837fa9a48724e.nq.gz",
+        "blob/030ad20fc7cb8290b7cd26310b6aa371511c2660.nq.gz",
+        "blob/863c36e426cf88681c085ca78995d115bc7c3910.nq.gz",
+        "blob/389ce9856341060a86b921208098db2dee739375.nq.gz",
+        "blob/f9298d15d37a2b836e5957cac188ff7cdb8720f4.nq.gz",
+        "blob/e8ed4057bcb689cbd4e0e6af10781b16ec720b24.nq.gz"
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
