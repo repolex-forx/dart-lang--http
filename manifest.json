@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "dart-lang",
+  "repo": "http",
+  "versions": [
+    {
+      "commit": "405395b1eb9398966ac784301b6fa5a382bb88c9",
+      "parsed_at": "2026-03-19T21:41:35.907255+00:00",
+      "tag": "0.1.1",
+      "filetree": "filetree/405395b1eb9398966ac784301b6fa5a382bb88c9.nq.gz",
+      "blobs": [
+        "blob/9124e035b5376708c43de7ebd437eeb623038972.nq.gz",
+        "blob/a10d4c5a05c981eb3b5a454f1af297abfdf18b18.nq.gz",
+        "blob/5d53a966da1620adad9ab0832532c0193dba9dad.nq.gz",
+        "blob/615b92ff9638c69d62a66c503307514cdc7eb6d5.nq.gz",
+        "blob/29ab172294f0935286593806ede284b87200ec45.nq.gz",
+        "blob/e8063a8cd6e55e48e8b3f30aa4f172bda9c4c133.nq.gz",
+        "blob/d1aa1633dd46b0c52cc07546241bec4b98913a10.nq.gz",
+        "blob/e1b08fdf8891be40a2ddc056a3db3576d8817dbf.nq.gz",
+        "blob/da41cf27639a3b9eceab6ab8cf0837fa9a48724e.nq.gz",
+        "blob/030ad20fc7cb8290b7cd26310b6aa371511c2660.nq.gz",
+        "blob/389ce9856341060a86b921208098db2dee739375.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
